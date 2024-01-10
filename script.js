@@ -112,5 +112,5 @@ function placeFood() {
 
 function exitGame() {
   gameOver = true;
-  window.location.href = "splash.html";
+  window.location.href = "index.html";
 }
